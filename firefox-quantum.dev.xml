@@ -1,0 +1,40 @@
+<firefox-quantum>
+	<bg>
+		<old>
+			<stop offset="0" style="stop-color:#0f3c8a;#114399"/>
+			<stop offset="1" style="stop-color:#0d3477;#0f3b87"/>
+		</old>
+		<v1 top="003eaa -S 80 -L 25">
+			<stop offset="0" style="stop-color:#0d3273"/>
+			<stop offset="1" style="stop-color:#0b2a60"/>
+		</v1>
+		<v2 top="003eaa -H 240 -S 80 -L 25">
+			<stop offset="0" style="stop-color:#0d0d73"/>
+			<stop offset="1" style="stop-color:#0b0b60"/>
+		</v2>
+		<v2 top="003eaa -H 225 -S 80 -L 25">
+			<stop offset="0" style="stop-color:#0d2673"/>
+			<stop offset="1" style="stop-color:#0b2060"/>
+		</v2>
+		<v3 top="-H 205 -S 45 -L 80">
+
+		</v3>
+	</bg>
+	<colors bg-top="-H 205 -S 45 -L 80" c="-H 205 -S 45 -L 45" s="-L 50">
+		<linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
+			<stop offset="0" style="stop-color:#b5d0e3"/>
+			<stop offset="1" style="stop-color:#a6c6dd"/>
+		</linearGradient>
+		<radialGradient id="s" cx="29" cy="20" r="24" gradientUnits="userSpaceOnUse">
+			<stop offset=".1" style="stop-color:#d6c729"/>
+			<stop offset="1." style="stop-color:#d54a2a"/>
+		</radialGradient>
+		<radialGradient id="c" cx="30" cy="18" r="24" gradientUnits="userSpaceOnUse">
+			<stop offset=".2" style="stop-color:#3f7ba6"/>
+		</radialGradient>
+	</colors>
+	<g opacity=".5" fill="none" stroke="black" stroke-width=".05" transform="translate(0 -0)">
+		<circle cx="29" cy="20" r="24"/>
+		<circle cx="29" cy="20" r="2.4"/>
+	</g>
+</firefox-quantum>

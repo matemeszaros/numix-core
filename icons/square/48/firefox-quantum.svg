@@ -1,15 +1,15 @@
 <svg version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
 	<defs>
 		<linearGradient id="bg" x2="0" y1="1" y2="47" gradientUnits="userSpaceOnUse">
-			<stop offset="0" style="stop-color:#afc0e1"/>
-			<stop offset="1" style="stop-color:#a0b4db"/>
+			<stop offset="0" style="stop-color:#b5d0e3"/>
+			<stop offset="1" style="stop-color:#a6c6dd"/>
 		</linearGradient>
 		<radialGradient id="s" cx="29" cy="19" r="24" gradientUnits="userSpaceOnUse">
-			<stop offset=".1" style="stop-color:#dacd3f"/>
-			<stop offset="1." style="stop-color:#d95c3f"/>
+			<stop offset=".1" style="stop-color:#d6c729"/>
+			<stop offset="1." style="stop-color:#d54a2a"/>
 		</radialGradient>
 		<radialGradient id="c" cx="30" cy="18" r="24" gradientUnits="userSpaceOnUse">
-			<stop offset=".2" style="stop-color:#4374ab"/>
+			<stop offset=".2" style="stop-color:#3f7ba6"/>
 		</radialGradient>
 	</defs>
 	<path d="m1 43v0.25c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.25c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4zm0 0.5v0.5c0 2.216 1.784 4 4 4h38c2.216 0 4-1.784 4-4v-0.5c0 2.216-1.784 4-4 4h-38c-2.216 0-4-1.784-4-4z" style="opacity:.02"/>
