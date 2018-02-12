@@ -15443,6 +15443,11 @@
             "root": "steam_icon_231160"
         }
     },
+    "the-warlock-of-firetop-mountain": {
+        "linux": {
+            "root": "steam_icon_324740"
+        }
+    },
     "theme-config": {
         "linux": {
             "root": "theme-config",

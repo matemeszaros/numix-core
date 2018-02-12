@@ -1,0 +1,14 @@
+BG:
+  a: |-
+      <stop style="stop-color:#801073" offset="0"/>
+      <stop style="stop-color:#6e0e63" offset="1"/>
+  b: |-
+      <stop style="stop-color:#991b3f" offset="0"/>
+      <stop style="stop-color:#881838" offset="1"/>
+  c: |-
+      <stop style="stop-color:#821776" offset="0"/>
+      <stop style="stop-color:#711466" offset="1"/>
+  d: |-
+      <stop style="stop-color:#77196c" offset="0"/>
+      <stop style="stop-color:#66165d" offset="1"/>
+
